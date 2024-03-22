@@ -1,0 +1,1 @@
+Information extraction extracts specific information from unstructured data.

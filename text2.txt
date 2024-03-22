@@ -1,0 +1,1 @@
+Retrieval techniques are used to find information in large collections of data.
